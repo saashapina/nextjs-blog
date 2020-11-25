@@ -8,8 +8,11 @@
     "start": "next start"
   },
   "dependencies": {
+    "@auth0/nextjs-auth0": "^0.16.0",
     "date-fns": "^2.16.1",
     "gray-matter": "^4.0.2",
+    "isomorphic-unfetch": "^3.1.0",
+    "mongoose": "^5.10.16",
     "next": "^10.0.0",
     "react": "16.13.1",
     "react-dom": "16.13.1",
